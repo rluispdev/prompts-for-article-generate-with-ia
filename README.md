@@ -92,5 +92,5 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 <p>
 
 ---
-## Crédtios 👊🏻
+## Créditos 👊🏻
 ⌨️Este README foi desenvolvido por  [Felipe Aguiar](https://github.com/felipeAguiarCode)
